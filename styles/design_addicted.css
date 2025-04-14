@@ -1,0 +1,54 @@
+.design_addicted {
+  width: 100%;
+  margin-top: 40px;
+}
+
+.design_addicted_text_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.text_wrapper {
+  margin-top: 122px;
+}
+
+.design_addicted_title {
+  display: block;
+  width: 136px;
+  height: 20px;
+
+  font-size: 14px;
+  line-height: 143%;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background-color: #e2b013;
+}
+
+.design_addicted_header {
+  margin-top: 40px;
+  font-size: 96px;
+  line-height: 90%;
+}
+
+.design_addicted_middle {
+  margin-top: 40px;
+  font-size: 50px;
+  line-height: 50%;
+}
+
+.design_addicted_bottom {
+  margin-top: 46px;
+  font-size: 26px;
+  line-height: 130%;
+}
+
+.properties_container {
+  margin: 0 auto;
+  margin-top: 86px;
+  max-width: 522px;
+  height: 104px;
+  display: flex;
+  justify-content: space-between;
+  gap: 66px;
+}
